@@ -1,4 +1,5 @@
-const Axios = require('axios')
+// import Axios from 'axios'
+const axios = require('axios');
 
 let addToCard = document.querySelectorAll('.add-to-card')
 
